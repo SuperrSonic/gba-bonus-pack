@@ -1,7 +1,18 @@
 # GBA Bonus Pack
 
-This is a GameCube (also Wii) app that when run from a gc-loader or cubeODE SD card will allow editing savefiles dumped by GBI's save dumper, allowing things like event distributions to work directly from the GameCube and the Game Boy Player.
+This is a GameCube (also Wii) app that when started from a gc-loader or cubeODE SD card will allow editing savefiles dumped by GBI's save dumper, allowing things like event distributions to work directly from the GameCube and the Game Boy Player.
 
+# Supported Games
+
+* Zelda ALTTP -- Access the hidden fetch quest and Palace of the Four Sword.
+* Fire Emblem -- Same exact content from the Mario Kart bonus disc.
+* Fire Emblem: The Sacred Stones -- Japan exclusive items, others handpicked by me.
+* Sonic Advance -- Rare Chao, Tails/Amy/Knuckles
+* Sonic Advance 2
+* Sonic Pinball Party
+* Pokémon FireRed & LeafGreen -- Jirachi
+* Pokémon Ruby & Sapphire -- Jirachi, Eon ticket, etc.
+* Pokémon Emerald -- Jirachi, Old Sea Map, etc.
 
 # GPSP
 
