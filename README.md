@@ -20,7 +20,7 @@ A port of RetroArch with gpsp is almost fully working, the savefiles created fro
 
 # GUI-based Wii versions
 
-More visually appealing, and split versions exist for Wii that mimic the look and feel of the original programs, using libwiigui and wiixplorer as a base.
+More visually appealing, and split versions exist for Wii that mimic the look and feel of the original programs, using libwiigui and WiiXplorer as a base.
 These will be shared eventually, after I've reviewed some of the code.
 
 # Preview
