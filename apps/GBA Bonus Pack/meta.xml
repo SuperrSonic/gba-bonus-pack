@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<app version="1">
+	<name>GBA Bonus Pack</name>
+	<coder>Diego A. (SuperrSonic)</coder>
+	<version>1.0</version>
+	<release_date>2025</release_date>
+	<short_description>Access special content in GBA games.</short_description>
+	<long_description>This tool can unlock or transfer data to certain GBA games
+that had distribution events or similar content.
+
+Games supported:
+* Zelda ALTTP/Four Swords
+* Fire Emblem
+* Fire Emblem: The Sacred Stones
+* Sonic Advance
+* Sonic Advance 2
+* Sonic Pinball Party
+* Pokémon FireRed / LeafGreen
+* Pokémon Ruby / Sapphire
+* Pokémon Emerald
+
+Zelda: Gives you access to a new dungeon.
+FE7/FE8: Adds a menu for bonus items.
+Tiny Chao Garden games can transfer rare chao.
+Pokémon games can transfer Jirachi.
+
+This tool works by modifying savefiles on the storage
+device available. It will look for GBI-style dumps.
+E.g. AXVE01.FLA in the root, it will also try to look
+for RetroArch HEXAeco-style saves in a path like this:
+/private/other/savefiles/Sonic Advance 2.srm
+
+Additional Credits:
+Phonymike: TCG crc.
+LemonBoy: Zelda checksum.
+Bulbapedia: Pokémon docs.
+sirius1428: Finding FE8's Transfer Data menu.
+</long_description>
+<ahb_access/>
+</app>

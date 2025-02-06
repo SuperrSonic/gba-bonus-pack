@@ -31,6 +31,8 @@ These will be shared eventually, after I've reviewed some of the code.
 
 Restoring the EEPROM save that's used by Zelda ALTTP doesn't work on GBI.
 
+Compiling the Wii version has the option of using the original libogc, that's what the regular makefile is set for, the official release here is built using it.
+
 # Credits
 
 Python code for ALTTP's checksum:
