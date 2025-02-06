@@ -1,0 +1,18 @@
+FE7 = AE7E.SRM AE7X.SRM AE7J.SRM
+FE8 = BE8E.SRM BE8P.SRM BE8J.SRM
+ALP = AZLE.EEP AZLP.EEP
+FRD = BPRE.FLA BPRP.FLA
+LGR = BPGE.FLA BPGP.FLA
+RBY = AXVE.FLA AXVP.FLA
+SPH = AXPE.fla AXPP.FLA
+EML = BPEE.FLA BPEP.FLA
+
+
+Pokémon possible types to get with this tool:
+
+AURA Mew(3 possibilities)
+MYSTRY Mew (12 possibilities)
+BOX Pichu/Skitty/Swablu/Zigzagoon
+COLOS Celebi/Pikachu (1)
+WISH/CHN Jirachi(6 possibilities)
+WISH Shiny Jirachi(10 possibilities)
