@@ -16,7 +16,7 @@ This is a GameCube (also Wii) app that when started from a gc-loader or cubeODE 
 
 # GPSP
 
-A port of RetroArch with gpsp is almost fully working, saves created from this emulator are compatible with GBA Bonus Pack.
+A port of RetroArch with gpsp is almost fully working, the savefiles created from this emulator are compatible with GBA Bonus Pack. Coming soon.
 
 # GUI-based Wii versions
 
@@ -40,6 +40,7 @@ Tiny Chao Garden's decompiled savefile check:
 https://github.com/phonymike
 
 The idea to support FE8 comes from here:
+
 https://feuniverse.us/t/fire-emblem-the-sacred-stones-bonus-content-unlocked/6705
 
 Pokémon Gen III savefile documentation:
