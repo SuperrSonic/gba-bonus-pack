@@ -40,7 +40,6 @@ Tiny Chao Garden's decompiled savefile check:
 https://github.com/phonymike
 
 The idea to support FE8 comes from here:
-
 https://feuniverse.us/t/fire-emblem-the-sacred-stones-bonus-content-unlocked/6705
 
 Pokémon Gen III savefile documentation:
