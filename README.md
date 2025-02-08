@@ -6,12 +6,12 @@ This is a GameCube (also Wii) app that when started from a gc-loader or cubeODE 
 
 * Zelda ALTTP -- Access the hidden fetch quest and Palace of the Four Sword.
 * Fire Emblem -- Same exact content from the Mario Kart bonus disc.
-* Fire Emblem: The Sacred Stones -- Japan exclusive items, others handpicked by me.
+* Fire Emblem: The Sacred Stones -- Japan exclusive items, others handpicked.
 * Sonic Advance -- Rare Chao
 * Sonic Advance 2 -- Rare Chao
 * Sonic Pinball Party -- Rare Chao
-* Pokémon FireRed & LeafGreen -- Jirachi
-* Pokémon Ruby & Sapphire -- Jirachi, Eon ticket, etc.
+* Pokémon FireRed & LeafGreen -- Jirachi, event tickets, etc.
+* Pokémon Ruby & Sapphire -- Jirachi, event tickets, etc.
 * Pokémon Emerald -- Jirachi, Old Sea Map, etc.
 
 
