@@ -1,14 +1,36 @@
-FE7 = AE7E.SRM AE7X.SRM AE7J.SRM
-FE8 = BE8E.SRM BE8P.SRM BE8J.SRM
-ALP = AZLE.EEP AZLP.EEP
-FRD = BPRE.FLA BPRP.FLA
-LGR = BPGE.FLA BPGP.FLA
-RBY = AXVE.FLA AXVP.FLA
-SPH = AXPE.fla AXPP.FLA
-EML = BPEE.FLA BPEP.FLA
+SA1 = ASOE78.FLA ASOP78.FLA ASOJ78.FLA
+SA2 = A2NE78.FLA A2NP78.FLA A2NJ8P.FLA
+SPP = A3VE8P.FLA A3VP8P.FLA A86J8P.FLA
+
+FE7 = AE7E01.SRM AE7X01.SRM
+FE8 = BE8E01.SRM BE8P01.SRM
+
+ALP = AZLE01.EEP AZLP01.EEP
+
+FRD = BPRE01.FLA BPRP01.FLA
+LGR = BPGE01.FLA BPGP01.FLA
+RBY = AXVE01.FLA AXVP01.FLA
+SPH = AXPE01.FLA AXPP01.FLA
+EML = BPEE01.FLA BPEP01.FLA
+
+NOTE: while Pokémon games all use (01) there are some revisions that use (20) as the publisher ID.
+
+RetroArch-style paths can be used as long as it follows this convention: "device:/private/other/savefiles/*.srm"
+
+Sonic Advance.srm
+Sonic Advance 2.srm
+Sonic Pinball Party.srm
+Fire Emblem.srm
+Fire Emblem The Sacred Stones.srm
+Zelda A Link to the Past.srm
+Pokemon FireRed.srm
+Pokemon LeafGreen.srm
+Pokemon Ruby.srm
+Pokemon Sapphire.srm
+Pokemon Emerald.srm
 
 
-Pokémon possible types to get with this tool:
+Possible PKM types to get with this tool:
 
 AURA Mew(3 possibilities)
 MYSTRY Mew (12 possibilities)

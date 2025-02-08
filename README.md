@@ -14,6 +14,18 @@ This is a GameCube (also Wii) app that when started from a gc-loader or cubeODE 
 * Pokémon Ruby & Sapphire -- Jirachi, Eon ticket, etc.
 * Pokémon Emerald -- Jirachi, Old Sea Map, etc.
 
+
+Since the focus is the GameCube with a gc-loader or sd2sp2, the naming of the savefiles is the same used by GBI's dumper, which follows the pattern of "sd:/TITLEID|PUBLISHERID|.|SAVETYPE"
+
+You can use the agb_titleids.txt file to find the correct ID for a game, example: EUR version of Sonic Advance is ASOP78.FLA, the game uses flash memory so it has .FLA as the extension, and the publisher code is 78(THQ)
+
+Since emulator saves are compatible as well, there's an alternate naming convention that can be used, this one follows my fork of RetroArch's path:
+
+"sd:/private/other/savefiles/NAME.srm" -- notice that all RetroArch saves use ".srm" as the extension. You can check agb_titleids.txt for the names used to find a specific save.
+
+It is done this way to avoid using arguments, or a file browser that could cause the user to accidentally pick the wrong file, it keeps things simple and the interface clean.
+
+
 # GPSP
 
 A port of RetroArch with gpsp is almost fully working, the savefiles created from this emulator are compatible with GBA Bonus Pack. Coming soon.
